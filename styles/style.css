@@ -32,7 +32,7 @@
 }
 
 /* ----------------------
-Query for small devices
+Query for extra small devices
 ------------------------ */
 
 @media screen and (max-width:575px) {
@@ -55,7 +55,7 @@ Query for small devices
 }
 
 /* ----------------------
-Query for madium devices
+Query for small devices
 ------------------------ */
 
 @media screen and (min-width:576px) and (max-width:768px) {
